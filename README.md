@@ -1,4 +1,4 @@
-# ML Pipelines
+# Statistical Machine Learning Pipelines
 
 This project is divided into two parts:
 
